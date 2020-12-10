@@ -1,0 +1,16 @@
+{
+  "clusters": [
+    {
+      "brokerUrl": "",
+      "caFile": "",
+      "serviceKeyFile": "",
+      "serviceCertFile": ""
+    },
+    {
+      "brokerUrl": "",
+      "caFile": "",
+      "serviceKeyFile": "",
+      "serviceCertFile": ""
+    }
+  ]
+}
