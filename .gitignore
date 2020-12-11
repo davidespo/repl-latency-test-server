@@ -2,3 +2,5 @@ node_modules
 service*
 ca.pem
 state*
+config.json
+latency*

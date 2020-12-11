@@ -2,9 +2,9 @@
   "name": "dr",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "main.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node main.js"
   },
   "keywords": [],
   "author": "",
@@ -15,6 +15,8 @@
     "kafkajs": "^1.14.0",
     "nanoid": "^3.1.18",
     "pretty-ms": "^7.0.1",
+    "redis": "^3.0.2",
+    "streaming-percentiles": "^3.1.0",
     "yargs": "^16.2.0"
   }
 }

@@ -1,0 +1,17 @@
+{
+  "stats": {
+    "epsilon": 0.01,
+    "quantiles": [0.68, 0.95, 0.99, 0.997]
+  },
+  "clusters": [
+    {
+      "topic": "repl-latency-test",
+      "brokerUrl": "",
+      "caFile": "ca.pem",
+      "serviceKeyFile": "service.k1.key",
+      "serviceCertFile": "service.k1.cert",
+      "producerCount": 5,
+      "producerDelay": -1
+    }
+  ]
+}
